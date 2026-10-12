@@ -1,0 +1,17 @@
+barred
+crossWalk
+NoPassB
+NoPassE
+park
+priority
+stop
+straight
+tunnelB
+tunnelE
+turn
+slope
+school
+speed
+CrossWalk
+Red
+Green

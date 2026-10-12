@@ -1,0 +1,6 @@
+path: E:\YOLO\SignDetection\yolov8-sign-detection-main\output
+train: images/train
+val: images/val
+
+nc: 17
+names: ["barred", "crossWalk", "NoPassB", "NoPassE", "park", "priority", "stop", "straight", "tunnelB", "tunnelE", "turn", "slope", "school", "speed", "CrossWalk", "Red", "Green"]
